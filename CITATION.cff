@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite this repository."
+title: "Budget-Aware SLM-LLM Collaboration for Adaptive IIoT Intrusion Detection Under Concept Drift"
+authors:
+  - family-names: Popalzai
+    given-names: Faisal
+    affiliation: University of Regina
+version: 1.0.0
+repository-code: "https://github.com/faisalpopalzai/Budget-Aware-SLM-LLM-IIoT-IDS"
+type: software
+keywords:
+  - Concept Drift
+  - Intrusion Detection
+  - Industrial Internet of Things
+  - Small Language Models
+  - Large Language Models
+  - Budget-Aware Adaptation
+  - Cybersecurity
+  - Adaptive Machine Learning
