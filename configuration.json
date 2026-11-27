@@ -1,0 +1,15 @@
+{
+    "dataset": "ToN_IoT Network",
+    "dataset_records": 211043,
+    "evaluation_records": 105522,
+    "window_size": 1000,
+    "label_delay_windows": 1,
+    "random_seed": 42,
+    "adwin_delta": 0.002,
+    "slm": "Qwen3-1.7B",
+    "llm": "Qwen3-8B",
+    "llm_budget": 3,
+    "confidence_threshold": 0.8,
+    "stream_order": "Controlled dataset-order stream",
+    "verified_chronological": false
+}
